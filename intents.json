@@ -1,0 +1,21 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "patterns": ["hello", "hey", "hi", "good day", "How are you doing?", "How is the going?", "What's up?"],
+      "responses": ["Hello", "Hey!", "What can I do for you?", "Pleasure to me you"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["good bye", "bye", "See you later!", "Thankyou!", "I got to go now"],
+      "responses": ["Goodbye!", "See you then!", "I'm glad I was able to help you", "I appreciate for you time!"]
+    },
+    {
+      "tag": "name",
+      "patterns": ["Who are you?", "Who am I talking to?", "What's your name?", "Do I know you?"],
+      "responses": ["I am a trained Chatbot", "I am a Machine trying to help you find what you are looking for!", "My name is Nelite Chatbot! A trained AI Chatbot..."]
+    }
+
+  ]
+}
+                                                                                                    
